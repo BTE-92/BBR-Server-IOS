@@ -74,7 +74,7 @@ the game's original server.
    the text editor.
 
 1. Tap Edit, and add these lines at the very end (replacing `YOUR_PC_IP` with
-   your PC's local IP):
+   your PC's local IP) :
 
    ```
    YOUR_PC_IP woeprod.traplightgames.com
