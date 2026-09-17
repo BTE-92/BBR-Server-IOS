@@ -8,8 +8,8 @@ the game's original server.
 ## REQUIREMENTS
 
 * The Big Bang Racing game
-* A PC with Python 3 (https://www.python.org/downloads/) installed
-* Git for Windows (https://git-scm.com/downloads)
+* A PC with Python 3 [Click this to download it (32 bit)](https://www.python.org/downloads)
+* Git for Windows [Click this to download it (32 bit)](https://git-scm.com/downloads)
 * Both devices connected to the same Wi-Fi network
 
 
