@@ -30,9 +30,9 @@ the game's original server.
 
 1. Install the server's Root CA on your iOS device
 
-   1. Open it on the device. Go to Settings, you'll see "Profile Downloaded" at
+   Open it on the device. Go to Settings, you'll see "Profile Downloaded" at
       the top, tap Install.
-   1. Go to Settings > General > About > Certificate Trust Settings, and
+   Go to Settings > General > About > Certificate Trust Settings, and
       enable full trust for "BigBangRacing Offline Root CA".
 
 1. Reboot your device.
