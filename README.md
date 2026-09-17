@@ -1,6 +1,6 @@
 This lets you play Big Bang Racing (by Traplight) on a local Server.
 
-How it works: this runs a server on your PC that pretends to be
+How it works : this runs a server on your PC that pretends to be
 the game's original server.
 
 
@@ -91,23 +91,23 @@ the game's original server.
 
 ## TROUBLESHOOTING
 
-* Stuck on "connecting to server" forever: your PC's firewall is probably
+* Stuck on "connecting to server" forever : your PC's firewall is probably
   blocking the connection. Try temporarily disabling it to confirm.
 
-* Port 80/443 already in use / IIS: on Windows, IIS (a built-in web server)
+* Port 80/443 already in use / IIS : on Windows, IIS (a built-in web server)
   also uses port 80 by default and can conflict with the script. Disable it
   via Win+R > type "optionalfeatures" > uncheck "Internet Information
   Services".
 
-* "OpenSSL was not found on PATH": install Git for Windows
+* "OpenSSL was not found on PATH" : install Git for Windows
 
-* Game still not connecting even after the DNS change: double check the
+* Game still not connecting even after the DNS change : double check the
   Root CA was actually installed AND trusted (both steps in step 4 above -
   it's easy to install the profile and forget to flip on Certificate Trust
   Settings, in which case the device will silently reject the connection).
 
-* For the DNS Method users, remember to switch your device's DNS back to Automatic when you're not playing, or it
-  will lose internet access whenever the script isn't running on your PC.
+* For the DNS Method users, remember to switch your device's DNS back to Automatic when you're not playing,
+  or it will lose internet access whenever the script isn't running on your PC.
 
 
 ## SAVING YOUR DATA
