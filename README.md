@@ -88,6 +88,12 @@ the game's original server.
 
 1. Launch the game.
 
+## INFORMATION
+
+* For the DNS Method users, remember to switch your device's DNS back to Automatic when you're not playing,
+  or it will lose internet access whenever the script isn't running on your PC.
+
+* Remember to re-sign the Big Bang Racing app every 7 days.
 
 ## TROUBLESHOOTING
 
@@ -105,10 +111,6 @@ the game's original server.
   Root CA was actually installed AND trusted (both steps in step 4 above -
   it's easy to install the profile and forget to flip on Certificate Trust
   Settings, in which case the device will silently reject the connection).
-
-* For the DNS Method users, remember to switch your device's DNS back to Automatic when you're not playing,
-  or it will lose internet access whenever the script isn't running on your PC.
-
 
 ## SAVING YOUR DATA
 
