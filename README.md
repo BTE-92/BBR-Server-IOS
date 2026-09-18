@@ -108,9 +108,7 @@ the game's original server.
 * "OpenSSL was not found on PATH" : install Git for Windows
 
 * Game still not connecting even after the DNS change : double check the
-  Root CA was actually installed AND trusted (both steps in step 4 above -
-  it's easy to install the profile and forget to flip on Certificate Trust
-  Settings, in which case the device will silently reject the connection).
+  Root CA was actually installed AND trusted (both steps in step 4 above).
 
 ## SAVING YOUR DATA
 
