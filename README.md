@@ -7,6 +7,7 @@ the game's original server.
 
 ## REQUIREMENTS
 
+
 * The Big Bang Racing game [Click this to download it](https://archive.org/details/traplight-bigbangracing)
 * A PC with Python 3 [Click this to download it](https://www.python.org/downloads)
 * Git for Windows [Click this to download it](https://git-scm.com/downloads)
@@ -14,6 +15,7 @@ the game's original server.
 
 
 ## SETUP - NO JAILBREAK
+
 
 1. Sideload Big Bang Racing onto your iOS device.
 
@@ -46,7 +48,6 @@ the game's original server.
 
 
 ## SETUP - JAILBREAK
-
 
 
 1. Sideload Big Bang Racing onto your iOS device.
@@ -88,14 +89,18 @@ the game's original server.
 
 1. Launch the game.
 
+
 ## INFORMATION
+
 
 * For the DNS Method users, remember to switch your device's DNS back to Automatic when you're not playing,
   or it will lose internet access whenever the script isn't running on your PC.
 
 * Remember to re-sign the Big Bang Racing app every 7 days.
 
+
 ## TROUBLESHOOTING
+
 
 * Stuck on "connecting to server" forever : your PC's firewall is probably
   blocking the connection. Try temporarily disabling it to confirm.
@@ -110,7 +115,9 @@ the game's original server.
 * Game still not connecting even after the DNS change : double check the
   Root CA was actually installed AND trusted (both steps in step 4 above).
 
+
 ## SAVING YOUR DATA
+
 
 Everything (players, levels, scores, ghosts, tournaments, news feed, etc.) is
 stored on your PC in a single database file, `game.db`, created next to the
