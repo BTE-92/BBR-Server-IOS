@@ -121,12 +121,13 @@ the game's original server.
 
 Everything (players, levels, scores, ghosts, tournaments, news feed, etc.) is
 stored on your PC in a single database file, `game.db`, created next to the
-script. You may also see `game.db-wal` and `game.db-shm` appear alongside it -
+script. You may also see `game.db-wal` and `game.db-shm` appear alongside it, 
 these are normal SQLite working files, not extra data, and can be ignored. As
 long as you keep all of these next to the script and reuse it, everything is
 still there next time. Just don't delete them.
 
 
 ## CONTACT
+
 
 Contact me @baptistewi92 on Discord
