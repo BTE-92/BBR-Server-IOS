@@ -1,4 +1,4 @@
-This lets you play Big Bang Racing (by Traplight) on a local Server.
+This lets you play Big Bang Racing (by Traplight) on a local Server. (IOS ONLY)
 
 How it works : this runs a server on your PC that pretends to be
 the game's original server.
